@@ -6,10 +6,6 @@ using System.DirectoryServices;
 using System.IO;
 using System.Diagnostics;
 
-//****************************************
-// Copyright (c) SystemsAdminPro 2011
-//****************************************
-
 namespace ActiveDirectoryBuilder
 {
     class ADBMain
